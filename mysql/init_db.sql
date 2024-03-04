@@ -7,7 +7,7 @@ CREATE TABLE IF NOT EXISTS cattle (
     age INT
 );
 
-LOAD DATA INFILE '/var/lib/mysql-files/cattle_data.csv'
+LOAD DATA INFILE '/var/lib/mysql-files/cattle.csv'
 INTO TABLE cattle
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
