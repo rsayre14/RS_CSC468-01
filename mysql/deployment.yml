@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: app
-        image: rsayre14/DOCKER_APP:BUILD_NUMBER
+        image: rsayre14/csc468:MySQLServer
         resources:
           requests:
             cpu: 10m
