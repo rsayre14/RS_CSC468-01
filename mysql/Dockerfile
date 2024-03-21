@@ -2,7 +2,7 @@
 FROM mysql/mysql-server:latest
 
 # Set environment variables for MySQL (optional)
-ENV MYSQL_ROOT_PASSWORD=root_password
+ENV MYSQL_ROOT_PASSWORD=my_root_password
 ENV MYSQL_DATABASE=csc468
 
 # Copy the init_db.sql script and cattle_data.csv into the image
