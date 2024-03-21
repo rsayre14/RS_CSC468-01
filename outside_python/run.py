@@ -1,12 +1,13 @@
+# run.py
 import mysql.connector
 from mysql.connector import Error
 
 config = {
     'user': 'root',
-    'password': 'your_root_password',
-    'host': '130.127.132.214',
-    'port': 3306,
-    #  'database': 'your_database',
+    'password': 'my_root_password',
+    'host': '155.98.37.45',
+    'port': 32760,
+    'database': 'csc468',
     'raise_on_warnings': True
 }
 
