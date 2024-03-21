@@ -7,7 +7,7 @@ spec:
     role: app
   ports:
     - protocol: TCP
-      port: 8080
-      targetPort: 3306
+      port: 3306
+      targetPort: 8080
       nodePort: 32760
   type: NodePort
