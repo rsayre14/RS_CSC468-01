@@ -20,3 +20,6 @@ spec:
         resources:
           requests:
             cpu: 10m
+        env:
+        - name: MYSQL_ROOT_PASSWORD
+          value: my_root_password
