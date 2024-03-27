@@ -1,3 +1,11 @@
-name,breed,age
-Bella,Jersey,4
-Molly,Holstein,3
+Name,Breed,Age,Color
+Bella,Jersey,4,Brown
+Molly,Holstein,3,Black and White
+Charlie,Angus,2,Black
+Daisy,Hereford,5,Red and White
+Max,Limousin,4,Tan
+Luna,Charolais,2,White
+Rocky,Simmental,3,Brown and White
+Lucy,Guernsey,6,Fawn and White
+Milo,Brahman,1,Gray
+Sophie,Shorthorn,3,Red and White
